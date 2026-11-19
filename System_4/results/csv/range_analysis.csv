@@ -1,0 +1,5 @@
+scenario,max_abs_p_m,max_abs_v_mps,max_abs_U_norm_offdiag,max_D_norm,peak_abs_dx_norm,int_bits_incl_sign_U,int_bits_incl_sign_D,int_bits_incl_sign_dx
+static,0,0,29.9999,0.206018,0,6,1,1
+constvel,599.935,10.2173,29.4475,0.20026,0.124258,6,1,1
+dynamic,533.484,12.5501,8.01834,0.200046,0.187801,5,1,1
+highrange,1113.08,22.2859,6.55146,0.200048,3.51717,4,1,3

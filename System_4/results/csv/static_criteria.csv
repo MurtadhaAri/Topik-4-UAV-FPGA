@@ -1,0 +1,4 @@
+config,max_position_drift_mm,min_D_norm_float,min_D_norm_fixed,pd_clamp,d_positive,drift_le_1mm
+W16,0.000000,7.178318e-06,3.051758e-05,0,1,1
+W24,0.000000,7.178318e-06,1.108646e-05,0,1,1
+W32,0.000000,7.178318e-06,7.146504e-06,0,1,1

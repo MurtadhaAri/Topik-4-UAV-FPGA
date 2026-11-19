@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" font-family="sans-serif" font-size="11">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="78" y="22" font-size="14" font-weight="bold">RMSE fixed vs float, 16/24/32-bit error path (highrange)</text>
+<line x1="78" y1="364.0" x2="700" y2="364.0" stroke="#e5e5e5"/>
+<text x="72" y="368.0" text-anchor="end">1e-07</text>
+<line x1="78" y1="317.7" x2="700" y2="317.7" stroke="#e5e5e5"/>
+<text x="72" y="321.7" text-anchor="end">1e-06</text>
+<line x1="78" y1="271.4" x2="700" y2="271.4" stroke="#e5e5e5"/>
+<text x="72" y="275.4" text-anchor="end">1e-05</text>
+<line x1="78" y1="225.1" x2="700" y2="225.1" stroke="#e5e5e5"/>
+<text x="72" y="229.1" text-anchor="end">1e-04</text>
+<line x1="78" y1="178.9" x2="700" y2="178.9" stroke="#e5e5e5"/>
+<text x="72" y="182.9" text-anchor="end">1e-03</text>
+<line x1="78" y1="132.6" x2="700" y2="132.6" stroke="#e5e5e5"/>
+<text x="72" y="136.6" text-anchor="end">0.01</text>
+<line x1="78" y1="86.3" x2="700" y2="86.3" stroke="#e5e5e5"/>
+<text x="72" y="90.3" text-anchor="end">0.1</text>
+<line x1="78" y1="40.0" x2="700" y2="40.0" stroke="#e5e5e5"/>
+<text x="72" y="44.0" text-anchor="end">1</text>
+<rect x="78" y="40" width="622" height="324" fill="none" stroke="#444"/>
+<text transform="translate(16,202) rotate(-90)" text-anchor="middle">RMSE (log scale; units per group)</text>
+<text x="129.8" y="380" text-anchor="middle">position</text>
+<rect x="88.4" y="83.2" width="25.6" height="280.8" fill="#d95f02"/>
+<rect x="116.0" y="133.4" width="25.6" height="230.6" fill="#1b9e77"/>
+<rect x="143.7" y="193.7" width="25.6" height="170.3" fill="#7570b3"/>
+<text x="233.5" y="380" text-anchor="middle">velocity</text>
+<rect x="192.0" y="77.2" width="25.6" height="286.8" fill="#d95f02"/>
+<rect x="219.7" y="134.1" width="25.6" height="229.9" fill="#1b9e77"/>
+<rect x="247.3" y="207.6" width="25.6" height="156.4" fill="#7570b3"/>
+<text x="337.2" y="380" text-anchor="middle">attitude_angle</text>
+<rect x="295.7" y="68.0" width="25.6" height="296.0" fill="#d95f02"/>
+<rect x="323.3" y="141.4" width="25.6" height="222.6" fill="#1b9e77"/>
+<rect x="351.0" y="196.1" width="25.6" height="167.9" fill="#7570b3"/>
+<text x="440.8" y="380" text-anchor="middle">accel_bias</text>
+<rect x="399.4" y="74.1" width="25.6" height="289.9" fill="#d95f02"/>
+<rect x="427.0" y="124.7" width="25.6" height="239.3" fill="#1b9e77"/>
+<rect x="454.7" y="218.1" width="25.6" height="145.9" fill="#7570b3"/>
+<text x="544.5" y="380" text-anchor="middle">gyro_bias</text>
+<rect x="503.0" y="130.8" width="25.6" height="233.2" fill="#d95f02"/>
+<rect x="530.7" y="188.6" width="25.6" height="175.4" fill="#1b9e77"/>
+<rect x="558.3" y="264.5" width="25.6" height="99.5" fill="#7570b3"/>
+<text x="648.2" y="380" text-anchor="middle">P_norm_diag</text>
+<rect x="606.7" y="152.9" width="25.6" height="211.1" fill="#d95f02"/>
+<rect x="634.3" y="254.1" width="25.6" height="109.9" fill="#1b9e77"/>
+<rect x="662.0" y="323.6" width="25.6" height="40.4" fill="#7570b3"/>
+<rect x="86" y="48" width="14" height="3" fill="#d95f02"/>
+<text x="104" y="53">W16</text>
+<rect x="135" y="48" width="14" height="3" fill="#1b9e77"/>
+<text x="153" y="53">W24</text>
+<rect x="184" y="48" width="14" height="3" fill="#7570b3"/>
+<text x="202" y="53">W32</text>
+</svg>

@@ -1,0 +1,4 @@
+mode,samples,mismatch_vs_baseline,max_err_lsb_vs_exact,mean_iterations,max_iterations,mean_cycles_est,div0_returns_saturated,saturated_results
+baseline,100000,0,1.0000,0.00,0,0.00,1,4
+restoring,100000,0,1.0000,38.01,39,38.01,1,4
+non-restoring,100000,0,1.0000,38.01,39,39.01,1,4

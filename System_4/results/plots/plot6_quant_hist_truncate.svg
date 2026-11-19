@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="420" viewBox="0 0 720 420" font-family="sans-serif" font-size="11">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="78" y="22" font-size="14" font-weight="bold">Quantization error histogram (truncate) - error in LSB</text>
+<line x1="78.0" y1="40" x2="78.0" y2="364" stroke="#e5e5e5"/>
+<text x="78.0" y="380" text-anchor="middle">-1</text>
+<line x1="202.4" y1="40" x2="202.4" y2="364" stroke="#e5e5e5"/>
+<text x="202.4" y="380" text-anchor="middle">-0.8</text>
+<line x1="326.8" y1="40" x2="326.8" y2="364" stroke="#e5e5e5"/>
+<text x="326.8" y="380" text-anchor="middle">-0.6</text>
+<line x1="451.2" y1="40" x2="451.2" y2="364" stroke="#e5e5e5"/>
+<text x="451.2" y="380" text-anchor="middle">-0.4</text>
+<line x1="575.6" y1="40" x2="575.6" y2="364" stroke="#e5e5e5"/>
+<text x="575.6" y="380" text-anchor="middle">-0.2</text>
+<line x1="700.0" y1="40" x2="700.0" y2="364" stroke="#e5e5e5"/>
+<text x="700.0" y="380" text-anchor="middle">0</text>
+<line x1="78" y1="364.0" x2="700" y2="364.0" stroke="#e5e5e5"/>
+<text x="72" y="368.0" text-anchor="end">0</text>
+<line x1="78" y1="299.2" x2="700" y2="299.2" stroke="#e5e5e5"/>
+<text x="72" y="303.2" text-anchor="end">5</text>
+<line x1="78" y1="234.4" x2="700" y2="234.4" stroke="#e5e5e5"/>
+<text x="72" y="238.4" text-anchor="end">10</text>
+<line x1="78" y1="169.6" x2="700" y2="169.6" stroke="#e5e5e5"/>
+<text x="72" y="173.6" text-anchor="end">15</text>
+<line x1="78" y1="104.8" x2="700" y2="104.8" stroke="#e5e5e5"/>
+<text x="72" y="108.8" text-anchor="end">20</text>
+<line x1="78" y1="40.0" x2="700" y2="40.0" stroke="#e5e5e5"/>
+<text x="72" y="44.0" text-anchor="end">25</text>
+<rect x="78" y="40" width="622" height="324" fill="none" stroke="#444"/>
+<text x="389" y="408" text-anchor="middle">error [LSB]</text>
+<text transform="translate(16,202) rotate(-90)" text-anchor="middle">% of samples</text>
+<polyline fill="none" stroke="#d95f02" stroke-width="1.4" points="93.6,299.0 124.6,298.8 155.8,298.5 186.9,298.8 217.9,299.2 249.1,299.0 280.1,299.1 311.2,299.7 342.4,299.9 373.4,299.1 404.6,299.5 435.6,299.3 466.8,299.5 497.9,299.8 529.0,299.4 560.0,299.6 591.1,297.8 622.2,298.7 653.4,300.0 684.4,299.2"/>
+<polyline fill="none" stroke="#1b9e77" stroke-width="1.4" points="93.6,330.1 124.6,268.3 155.8,346.5 186.9,285.4 217.9,331.5 249.1,265.4 280.1,268.3 311.2,346.9 342.4,285.1 373.4,330.6 404.6,264.1 435.6,269.2 466.8,346.6 497.9,286.1 529.0,330.7 560.0,264.7 591.1,267.9 622.2,346.4 653.4,286.0 684.4,264.2"/>
+<polyline fill="none" stroke="#7570b3" stroke-width="1.4" points="93.6,364.0 124.6,364.0 155.8,364.0 186.9,295.0 217.9,173.2 249.1,364.0 280.1,364.0 311.2,227.1 342.4,242.0 373.4,364.0 404.6,364.0 435.6,237.8 466.8,231.0 497.9,364.0 529.0,364.0 560.0,106.8 591.1,364.0 622.2,364.0 653.4,364.0 684.4,103.2"/>
+<rect x="86" y="48" width="14" height="3" fill="#d95f02"/>
+<text x="104" y="53">Q1.15</text>
+<rect x="149" y="48" width="14" height="3" fill="#1b9e77"/>
+<text x="167" y="53">Q1.23</text>
+<rect x="212" y="48" width="14" height="3" fill="#7570b3"/>
+<text x="230" y="53">Q2.30</text>
+</svg>

@@ -1,0 +1,13 @@
+scenario,config,max_abs_quat_norm_error
+static,W16,0.000000e+00
+static,W24,0.000000e+00
+static,W32,0.000000e+00
+constvel,W16,1.127910e-09
+constvel,W24,1.135837e-09
+constvel,W32,1.145319e-09
+dynamic,W16,1.387331e-09
+dynamic,W24,1.410663e-09
+dynamic,W32,1.400020e-09
+highrange,W16,5.550007e-04
+highrange,W24,4.261416e-08
+highrange,W32,4.078160e-08
