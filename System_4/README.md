@@ -2,9 +2,10 @@
 **FPGA Sensor Fusion UAV — 15-DOF Quaternion ES-EKF** · Peran: *Orang 4 — Analis Kuantisasi Fixed-Point & Bit-Accurate Model*
 
 ## 1. Tujuan
-System 4 **tidak membuat algoritma EKF baru**. System 4 menjawab pertanyaan: *berapa bit, format Q berapa, dan skala normalisasi
-apa* yang dibutuhkan agar ES-EKF milik Orang 1–3 (Thornton UDUᵀ, Bierman, injeksi/reset error) tetap akurat saat
-dipindahkan ke aritmetika fixed-point untuk FPGA. Deliverable: library aritmetika bit-accurate, CORDIC dan divider
+System 4 Membuat program untuk: *berapa bit, format Q berapa, dan skala normalisasi
+apa* yang dibutuhkan agar ES-EKF milik Program sebelumnya (Thornton UDUᵀ, Bierman, injeksi/reset error) agar tetap akurat saat
+dipindahkan ke aritmetika fixed-point untuk FPGA. 
+*Deliverable*: library aritmetika bit-accurate, CORDIC dan divider
 berorientasi hardware, adapter float↔fixed yang kompatibel ICD, serta pipeline analisis RMSE yang *dapat diulang*.
 
 ## 2. Hubungan dengan sistem utama
